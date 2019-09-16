@@ -7,6 +7,12 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites
 chrome web browser and text editor.
 
+Installing
+Download chrome and install.
+Download atom or any other text editor
+
+
+
 
 
 
