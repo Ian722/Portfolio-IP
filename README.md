@@ -17,6 +17,9 @@ Save the file as index.html and link the css.Run the file with a web browser.
 Built with
 Atom Text editor
 
+Contributing
+There has been one contibutor 
+
 Authors
 Ian M.Warui
 
