@@ -11,8 +11,12 @@ Installing
 Download chrome and install.
 Download atom or any other text editor
 
-#Running the tests
+Running the tests
 Save the file as index.html and link the css.Run the file with a web browser.
+
+Break down into end to end tests
+Ensure for every edit you make run a test on the web browser.
+
 
 Built with
 Atom Text editor
