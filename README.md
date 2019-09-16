@@ -1,4 +1,3 @@
 # Portfolio-Ip
-Project Title
-One Paragraph of project description goes here
+This is a README of my Individual project.
 
